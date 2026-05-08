@@ -1,0 +1,7 @@
+requests
+supabase
+schedule
+flask
+google-api-python-client
+google-auth-oauthlib
+python-dateutil
